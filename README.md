@@ -1,0 +1,1 @@
+This is a full-stack app that you can browse items and add them to cart and check out with stripe. If you are logged in as a administrator you and add, edit or delete products and keep track of sales.
